@@ -1,0 +1,9 @@
+fullname = "BERALLO CYLE MARK"
+age = 18
+height = 5.8
+is_working = False
+
+print("Fullname:", fullname, "| Data type:", type(fullname), "\n")
+print("Age:", age, "| Data type:", type(age), "\n")
+print("Height in meters:", height, "| Data type:", type(height), "\n")
+print("Is Working:", is_working, "| Data type:", type(is_working), "\n")
